@@ -1,0 +1,19 @@
+body {
+    background-color: darkslategray;
+    color: white;
+    font-family: 'Franklin Gothic Medium';
+}
+main {
+    padding-top: 10px;
+}
+img {
+    display: block;
+}
+a {
+    font-size: 36.5px;
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: orange;
+}
